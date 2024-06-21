@@ -1,23 +1,22 @@
-Olá, me chamo Mariana 👋
+👋 Olá, eu sou a Mariana!
 
-Estou há um ano estudando sobre programação, durante esse tempo, completei cursos de Algoritmos e Lógica de Programação, além de me aprofundar em Python e SQL. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tenho grande interesse especialmente na parte de back-end.
+🚀 Sobre mim
+👩‍💻 Iniciei minha jornada na programação há menos de um ano e desde então venho explorando diferentes áreas.
 
-🚀 Habilidades
-Algoritmos e Lógica de Programação: Forte base em conceitos fundamentais que são aplicáveis em diversas linguagens de programação.
-Python: Experiência em desenvolvimento de scripts para automação, análise de dados e criação de APIs.
-SQL: Conhecimento em manipulação de bancos de dados, criação de consultas complexas e otimização de performance.
-Power BI: Habilidade na criação de dashboards interativos e relatórios visuais, transformando dados brutos em informações valiosas.
+🌱 Atualmente, estou focada em aprofundar meus conhecimentos em Python, SQL, manipulação de dados com Pandas, e orquestração de contêineres e Kubernetes.
 
 📚 Educação
-Análise e Desenvolvimento de Sistemas (ADS): 1º semestre 
-🌱 O que estou aprendendo atualmente
-Curso de Algoritmos e Lógica de Programação: Hhastag treinamentos 
-Curso de SQL: Hhastag treinamentos
-Power BI: Hhastag treinamentos
-Aperfeiçoamento em Python para Data Science:
+Análise e Desenvolvimento de Sistemas (ADS): 1º semestre
+
+🔧 Habilidades
+💻 Algoritmos e Lógica de Programação: Base sólida em conceitos fundamentais.
+🐍 Python: Experiência em desenvolvimento de scripts para automação, análise de dados e criação de APIs.
+💾 SQL: Habilidade em manipulação de bancos de dados e otimização de consultas.
+📊 Power BI: Criação de dashboards interativos e relatórios visuais.
+🧩Algoritmos e Lógica de Programação
 
 💼 Projetos
-No momento, não tenho nenhum projeto concluído, mas estou constantemente aprendendo e desenvolvendo novas habilidades.
+Atualmente, estou explorando novas tecnologias e desenvolvendo novas habilidades. Em breve, compartilharei meus projetos aqui!
 
 📫 Como me encontrar
 Email: marianabaltazarleandro@gmail.com
