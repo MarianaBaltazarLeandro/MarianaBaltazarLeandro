@@ -1,7 +1,7 @@
 👋 Olá, eu sou a Mariana!
 
 🚀 Sobre mim
-👩‍💻 Iniciei minha jornada na programação há menos de um ano e desde então venho explorando diferentes áreas.
+👩‍💻 Iniciei minha jornada na programação há um ano e desde então venho explorando diferentes áreas.
 
 🌱 Atualmente, estou focada em aprofundar meus conhecimentos em Python, SQL, manipulação de dados com Pandas, e orquestração de contêineres e Kubernetes.
 
